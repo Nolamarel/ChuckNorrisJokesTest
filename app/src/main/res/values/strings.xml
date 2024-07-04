@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chuck Norris Test</string>
+    <string name="press_the_button_for_chuck_s_joke">Press the button for Chuck\'s joke</string>
+    <string name="get_chuck_s_joke">Get Chuck\'s joke</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+</resources>
